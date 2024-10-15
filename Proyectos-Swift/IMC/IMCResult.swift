@@ -2,7 +2,7 @@
 //  IMCResult.swift
 //  CursoiOS
 //
-//  Created by Arístides Guimerá Orozco on 24/5/24.
+//  Created by Miguel Angel Bohorquez Walteros
 //
 
 import SwiftUI
