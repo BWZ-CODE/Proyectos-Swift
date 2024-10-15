@@ -2,7 +2,7 @@
 //  CursoiOSApp.swift
 //  CursoiOS
 //
-//  Created by Arístides Guimerá Orozco on 28/4/24.
+//  Created by Miguel Angel Bohorquez Walteros
 //
 
 import SwiftUI
